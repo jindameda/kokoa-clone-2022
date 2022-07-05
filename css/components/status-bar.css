@@ -2,7 +2,6 @@
   display: flex;
   justify-content: center;
   margin: 5px 3px;
-  position: fixed;
   width: 100%;
   top: 0;
 }
