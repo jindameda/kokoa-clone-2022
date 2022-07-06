@@ -1,0 +1,48 @@
+.icon-row__more {
+  margin: 30px 10px;
+}
+
+.icon-row__icon-under {
+  justify-content: left;
+  border-bottom: var(--main-border);
+  padding-bottom: 30px;
+}
+.icon-row__under-first {
+  padding-left: 4px;
+  margin-right: 60px;
+}
+
+.icon-row__suggestions {
+  justify-content: left;
+}
+
+.icon-row__suggestion img {
+  width: 55px;
+  height: 55px;
+  border-radius: 10px;
+}
+
+.more-suggestions__title {
+  margin-bottom: 25px;
+}
+
+.icon-row__suggestion {
+  margin-right: 30px;
+}
+
+.icon-row__suggestion span {
+  margin-top: 8px;
+  opacity: 0.5;
+  font-size: 15px;
+}
+
+#tlqkf {
+  background-color: tomato;
+  display: flex;
+  width: 6px;
+  height: 6px;
+  border-radius: 3px;
+  position: absolute;
+  right: 5px;
+  top: -25px;
+}

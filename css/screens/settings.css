@@ -1,0 +1,15 @@
+.settings-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 20px 30px;
+}
+
+.settings-header__title {
+  font-size: 25px;
+  font-weight: 500;
+}
+
+.settings-header__icon {
+  font-size: 30px;
+}

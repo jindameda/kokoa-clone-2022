@@ -12,33 +12,19 @@
   justify-content: space-around;
 }
 
-.nav__link {
+.nav__link:not(.screen-header__link) {
   color: #2e363e;
   position: relative;
 }
 
 .nav__notification {
-  background: tomato;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  width: 25px;
-  height: 25px;
-  border-radius: 12.5px;
   position: absolute;
-  color: white;
-  font-weight: 100;
   left: 17px;
   bottom: 15px;
 }
 
-#jum {
-  background-color: tomato;
-  display: flex;
-  width: 6px;
-  height: 6px;
-  border-radius: 3px;
-  position: absolute;
+.this-is__homework {
   left: 25px;
   bottom: 25px;
+  position: absolute;
 }
