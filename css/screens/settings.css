@@ -13,3 +13,31 @@
 .settings-header__icon {
   font-size: 30px;
 }
+
+.settings__category {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.06);
+  padding: 20px 0;
+}
+
+.settings__category:last-child {
+  display: flex;
+  justify-content: space-between;
+  padding-bottom: 35px;
+}
+
+.settings__topic {
+  font-size: 20px;
+}
+
+.settings__topic i {
+  margin-right: 20px;
+  opacity: 0.75;
+}
+
+.settings__topic:nth-child(2) {
+  opacity: 0.5;
+}
+
+.fa-flask {
+  padding-right: 2px;
+}

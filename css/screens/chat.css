@@ -1,0 +1,48 @@
+#chat-screen {
+  background-color: #afc2d0;
+  margin-left: 5px;
+}
+
+.chat-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 25px;
+  margin-top: 10px;
+  margin-bottom: 25px;
+  margin-right: 10px;
+  margin-left: 18px;
+}
+
+.chat-header__title {
+  text-align: center;
+  padding-left: 70px;
+  font-weight: 600;
+}
+
+.chat-header i {
+  font-size: 25px;
+}
+
+.chat-header__help-icon {
+  margin-bottom: 5px;
+}
+
+.chat-header__icon .fa-magnifying-glass {
+  padding-right: 30px;
+}
+
+.chat-day {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(0, 0, 0, 0.14);
+  width: 45%;
+  height: 30px;
+  border-radius: 20px;
+  color: rgba(255, 255, 255, 0.75);
+  font-weight: 200;
+  font-size: 14px;
+  margin-left: 119px;
+  margin-bottom: 20px;
+}
