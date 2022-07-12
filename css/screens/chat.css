@@ -1,5 +1,6 @@
 #chat-screen {
   background-color: #afc2d0;
+  height: 1100000vh;
   margin-left: 5px;
 }
 
@@ -17,11 +18,12 @@
 .chat-header__title {
   text-align: center;
   padding-left: 70px;
-  font-weight: 600;
+  font-weight: 500;
 }
 
 .chat-header i {
   font-size: 25px;
+  opacity: 0.8;
 }
 
 .chat-header__help-icon {
